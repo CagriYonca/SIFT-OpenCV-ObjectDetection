@@ -20,6 +20,6 @@ We have used brute force knn matcher to match keypoints by descriptions.
 !['a' image](documents/brief/a.png)  
 'b' image !['b' image](documents/brief/b.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'c' image !['c' image](documents/brief/c.png)  
 
-'output' for the 'c' image
 !['output' image](documents/brief/output.png)
+'output' for the 'c' image
 
