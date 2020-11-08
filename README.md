@@ -7,7 +7,7 @@ OpenCV (v3.3.1)
 OpenCV-contrib (v3.3.1)  
 Matplotlib
 
-Note: OpenCV version should be under v3.4 because SIFT can not be used above v3.4  
+Note: OpenCV version should be under v3.4 because SIFT can not be used newer versions after that.  
 
 We have 3 images thich named 'a', 'b' and 'c'. 'a' image is widescale space image, 'b' is one cropped part of 'a' and 'c' is cropped, rotated and scaled part of 'a'.  
 
